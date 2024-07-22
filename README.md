@@ -2,8 +2,8 @@
 # A US Super Store Sales Analysis using MS Power Bi
 I took a data of a super store and make an analysis using Power Bi to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-[superstoresales.pdf](https://github.com/user-attachments/files/16336483/superstoresales.pdf)
-
+![Screenshot 2024-07-22 212203](https://github.com/user-attachments/assets/1d06858e-e937-4385-bae5-ed69a617ff85)
+![Screenshot 2024-07-22 212228](https://github.com/user-attachments/assets/37dd3486-3c10-47b6-9de8-29e8c7d403c8)
 
 # Objective:
 *The objective can be broken down into the following detailed components*:
